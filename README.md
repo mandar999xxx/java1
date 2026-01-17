@@ -53,10 +53,10 @@ A program that categorizes users by age and checks voting eligibility.
 - String concatenation with variables
 
 ### Sample Output:
- Enter your age: 16
- You are a Teenager.
- Almost an Adult.
- 2 more years you can wait until completion of 18 to vote!
+ - Enter your age: 16
+ - You are a Teenager.
+ - Almost an Adult.
+ - 2 more years you can wait until completion of 18 to vote!
 
  
 ---
