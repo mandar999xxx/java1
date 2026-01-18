@@ -96,7 +96,7 @@ A program that generates multiplication tables and counts down.
 -   5 x 9=45
 -   5 x 10=50
 -
-    -=== Counting Down ===
+-    === Counting Down ===
 -    10
 -    9
 -    8
