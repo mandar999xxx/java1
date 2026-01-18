@@ -113,3 +113,9 @@ A program that generates multiplication tables and counts down.
 ---
 
 ## 📁 Project Structure
+
+## 📚 Table of Contents
+1. [Simple Calculator](#-simple-calculator-program)
+2. [Age Checker](#-age-checker-program)
+3. [Multiplication Table](#-multiplication-table-generator-java-program)
+4. [Project Structure](#-project-structure)
