@@ -59,6 +59,54 @@ A program that categorizes users by age and checks voting eligibility.
  - 2 more years you can wait until completion of 18 to vote!
 
  
+
 ---
+
+## 🔢 Multiplication Table Generator java program
+**File:** `MultiTable.java`
+
+A program that generates multiplication tables and counts down.
+
+### Features:
+- Takes a number input from user
+- Generates multiplication table (1-10)
+- Performs countdown from 10 to 1
+- Uses `for` loops for iteration
+
+### How to Run:
+1. Compile: `javac MultiTable.java`
+2. Run: `java MultiTable`
+
+### Concepts Learned:
+- `for` loops
+- User input with Scanner
+- String formatting in output
+- Multiple loops in one program
+
+### Sample Output:
+- === Multiplication Table of 5===
+-   5 x 1=5
+-   5 x 2=10
+-   5 x 3=15
+-   5 x 4=20
+-   5 x 5=25
+-   5 x 6=30
+-   5 x 7=35
+-   5 x 8=40
+-   5 x 9=45
+-   5 x 10=50
+-
+    -=== Counting Down ===
+    -10
+    -9
+    -8
+    -7
+    -6
+    -5
+    -4
+    -3
+    -2
+    -1
+    -Blast off! 🚀
 
 ## 📁 Project Structure
