@@ -23,7 +23,7 @@ public class AgeCheker {
             System.out.println("Enjoy the school  kid !.");
         }
         
-        else {                                                 // Runs if ALL conditions are FALSE
+        else {                                                 // Runs if ALL conditions are FALSE 
             System.out.println("You are toodler! ");
             System.out.println("Enjoy your childhood !.");
         }
