@@ -97,16 +97,16 @@ A program that generates multiplication tables and counts down.
 -   5 x 10=50
 -
     -=== Counting Down ===
-    -10
-    -9
-    -8
-    -7
-    -6
-    -5
-    -4
-    -3
-    -2
-    -1
-    -Blast off! 🚀
+-    10
+-    9
+-    8
+-    7
+-    6
+-    5
+-    4
+-    3
+-    2
+-    1
+-    Blast off! 🚀
 
 ## 📁 Project Structure
