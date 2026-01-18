@@ -95,7 +95,7 @@ A program that generates multiplication tables and counts down.
 -   5 x 8=40
 -   5 x 9=45
 -   5 x 10=50
--
+
 -    === Counting Down ===
 -    10
 -    9
@@ -108,5 +108,8 @@ A program that generates multiplication tables and counts down.
 -    2
 -    1
 -    Blast off! 🚀
+
+
+---
 
 ## 📁 Project Structure
