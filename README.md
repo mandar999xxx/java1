@@ -3,6 +3,13 @@
 
 This repository contains my Java learning journey over 30 days.
 
+
+## 📚 Table of Contents
+1. [Simple Calculator](#-simple-calculator-program)
+2. [Age Checker](#-age-checker-program)
+3. [Multiplication Table](#-multiplication-table-generator-java-program)
+4. [Project Structure](#-project-structure)
+
 ---
 
 ## 🧮 Simple Calculator Program
@@ -114,8 +121,11 @@ A program that generates multiplication tables and counts down.
 
 ## 📁 Project Structure
 
-## 📚 Table of Contents
-1. [Simple Calculator](#-simple-calculator-program)
-2. [Age Checker](#-age-checker-program)
-3. [Multiplication Table](#-multiplication-table-generator-java-program)
-4. [Project Structure](#-project-structure)
+---
+
+## 📅 Learning Progress
+- **Day 1**: Repository setup and Git basics
+- **Day 2**: Simple Calculator program
+- **Day 3**: Age Checker with conditional logic  
+- **Day 4**: Multiplication Table with loops
+- **Day 5**: *Coming soon...*
