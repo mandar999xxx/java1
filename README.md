@@ -160,4 +160,4 @@ A program that validates passwords using a while loop.
 - **Day 3**: Age Checker with conditional logic  
 - **Day 4**: Multiplication Table with loops
 - **Day 5**: Password Validator with attemps 
-- **Day 6**: *cooming soon ***
+- **Day 6**: cooming soon 
