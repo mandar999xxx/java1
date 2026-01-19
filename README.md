@@ -9,7 +9,7 @@ This repository contains my Java learning journey over 30 days.
 2. [Age Checker](#-age-checker-program)
 3. [Multiplication Table](#-multiplication-table-generator-java-program)
 4. [Project Structure](#-project-structure)
-
+5. [Password Validator](#-password-validator-program)
 ---
 
 ## 🧮 Simple Calculator Program
@@ -119,13 +119,42 @@ A program that generates multiplication tables and counts down.
 
 ---
 
+## 🔐 Password Validator Program
+**File:** `PasswordValidator.java`
+
+A program that validates passwords using a while loop.
+
+### Features:
+- Hardcoded correct password ("java2026")
+- Unlimited attempts until correct
+- Tracks number of attempts
+- Provides feedback after each attempt
+
+### Concepts Learned:
+- `while` loops with condition
+- String comparison using `.equals()`
+- Counter variables for tracking attempts
+- User input with Scanner
+- Conditional statements inside loops
+
+### Sample Output:
+- === 🔒password System🔒 ===
+- Attempt 1Enter password :
+- hello
+- X 🔒 Wrong password ❌ ! Try again . 
+
+- Attempt 2Enter password :
+- java2026
+- ✅ ✓Access is grtanted 🔓 
+- Your are right in 2attempts! 
+- Welcome
 ## 📁 Project Structure
 
----
+----
 
 ## 📅 Learning Progress
 - **Day 1**: Repository setup and Git basics
 - **Day 2**: Simple Calculator program
 - **Day 3**: Age Checker with conditional logic  
 - **Day 4**: Multiplication Table with loops
-- **Day 5**: *Coming soon...*
+- **Day 5**: Password Validator with attemps 
