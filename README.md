@@ -148,9 +148,19 @@ A program that validates passwords using a while loop.
 - ✅ ✓Access is grtanted 🔓 
 - Your are right in 2attempts! 
 - Welcome
+
+=== 🔒password System🔒 ===
+Attempt 1Enter password :
+hello
+X 🔒 Wrong password ❌ ! Try again . 
+
+Attempt 2Enter password :
+java2026
+ ✅ ✓Access is grtanted 🔓 
+Your are right in 2attempts! 
 ## 📁 Project Structure
 
-----
+---
 
 ## 📅 Learning Progress
 - **Day 1**: Repository setup and Git basics
