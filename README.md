@@ -138,41 +138,23 @@ A program that validates passwords using a while loop.
 - Conditional statements inside loops
 
 ### Sample Output:
-- === 🔒password System🔒 ===
-- Attempt 1Enter password :
-- hello
-- X 🔒 Wrong password ❌ ! Try again . 
-
-- Attempt 2Enter password :
-- java2026
-- ✅ ✓Access is grtanted 🔓 
-- Your are right in 2attempts! 
-- Welcome
 
 === 🔒password System🔒 ===
-
-Attempt 1Enter password :
-
-hello
-
-
-X 🔒 Wrong password ❌ ! Try again . 
-
-
+ Attempt 1Enter password :
+  hello
+   X 🔒 Wrong password ❌ ! Try again . 
+ 
 Attempt 2Enter password :
-
-java2026
-
- ✅ ✓Access is grtanted 🔓 
-
-Your are right in 2attempts! 
-
+ java2026
+  ✅ ✓Access is grtanted 🔓 
+   Your are right in 2attempts! 
+    Welcome 
 
 
 ---
 ## 📁 Project Structure
 
---
+
 
 ## 📅 Learning Progress
 - **Day 1**: Repository setup and Git basics
