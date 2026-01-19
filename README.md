@@ -60,10 +60,10 @@ A program that categorizes users by age and checks voting eligibility.
 - String concatenation with variables
 
 ### Sample Output:
- - Enter your age: 16
- - You are a Teenager.
- - Almost an Adult.
- - 2 more years you can wait until completion of 18 to vote!
+        Enter your age: 16
+         You are a Teenager.
+         Almost an Adult.
+         2 more years you can wait until completion of 18 to vote!
 
  
 
@@ -91,31 +91,30 @@ A program that generates multiplication tables and counts down.
 - Multiple loops in one program
 
 ### Sample Output:
-- === Multiplication Table of 5===
--   5 x 1=5
--   5 x 2=10
--   5 x 3=15
--   5 x 4=20
--   5 x 5=25
--   5 x 6=30
--   5 x 7=35
--   5 x 8=40
--   5 x 9=45
--   5 x 10=50
+        === Multiplication Table of 5===
+        5 x 1=5
+        5 x 2=10
+        5 x 3=15
+        5 x 4=20
+        5 x 5=25
+        5 x 6=30
+        5 x 7=35
+        5 x 8=40
+        5 x 9=45
+        5 x 10=50
 
--    === Counting Down ===
--    10
--    9
--    8
--    7
--    6
--    5
--    4
--    3
--    2
--    1
--    Blast off! 🚀
-
+        === Counting Down ===
+        10
+        9
+        8
+        7
+        6
+        5
+        4
+        3
+        2
+        1
+        Blast off! 🚀
 
 ---
 
