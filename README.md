@@ -140,14 +140,18 @@ A program that validates passwords using a while loop.
 ### Sample Output:
 
 === 🔒password System🔒 ===
+
  Attempt 1Enter password :
   hello
+
    X 🔒 Wrong password ❌ ! Try again . 
  
 Attempt 2Enter password :
- java2026
+java2026
+
   ✅ ✓Access is grtanted 🔓 
    Your are right in 2attempts! 
+   
     Welcome 
 
 
