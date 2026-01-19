@@ -158,9 +158,11 @@ Attempt 2Enter password :
 java2026
  ✅ ✓Access is grtanted 🔓 
 Your are right in 2attempts! 
-## 📁 Project Structure
 
 ---
+## 📁 Project Structure
+
+--
 
 ## 📅 Learning Progress
 - **Day 1**: Repository setup and Git basics
