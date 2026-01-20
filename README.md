@@ -10,6 +10,7 @@ This repository contains my Java learning journey over 30 days.
 3. [Multiplication Table](#-multiplication-table-generator-java-program)
 4. [Project Structure](#-project-structure)
 5. [Password Validator](#-password-validator-program)
+6 .[Pattern Printer ](#-pattern-printer-program)
 ---
 
 ## 🧮 Simple Calculator Program
@@ -150,6 +151,51 @@ A program that validates passwords using a while loop.
         Your are right in 2attempts! 
 
 ---
+
+## 🔢 Pattern Printer Program
+**File:** `PatternPrinter.java`
+
+A program that generates various patterns using nested for loops based on user input.
+
+### Features:
+- Takes number of rows as input
+- Generates three different patterns:
+  1. Right Triangle (star pattern)
+  2. Square (star pattern) 
+  3. Number Triangle (sequential numbers)
+- Demonstrates nested loops in action
+
+### How to Run:
+1. Compile: `javac PatternPrinter.java`
+2. Run: `java PatternPrinter`
+
+### Concepts Learned:
+- **Nested for loops** (loop inside another loop)
+- **Outer loop** controls rows (`i` variable)
+- **Inner loop** controls columns (`j` variable)
+- **Pattern logic**: Relationship between row number and column count
+- **Scanner** for user input
+
+### Sample Output (for rows=4):
+                Enter the number of rows :
+                3
+
+                === Pattern 1 : Right triangle ===
+                * 
+                * * 
+                * * * 
+
+                === Pattern 2: Square ===
+                * * * 
+                * * * 
+                * * * 
+
+                === Pattern 3 : Number Trinangle ===
+                1 
+                1 2 
+                1 2 3 
+                
+---
 ## 📁 Project Structure
 
 
@@ -160,4 +206,5 @@ A program that validates passwords using a while loop.
 - **Day 3**: Age Checker with conditional logic  
 - **Day 4**: Multiplication Table with loops
 - **Day 5**: Password Validator with attemps 
-- **Day 6**: cooming soon 
+- **Day 6**: Pattern printer 3 types 
+- **Day 7**: Comming soom .... !
