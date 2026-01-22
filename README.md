@@ -11,6 +11,7 @@ This repository contains my Java learning journey over 30 days.
 4. [Project Structure](#-project-structure)
 5. [Password Validator](#-password-validator-program)
 6 .[Pattern Printer ](#-pattern-printer-program)
+7 .[Student Grade ](#-student-grade-system-program)
 ---
 
 ## 🧮 Simple Calculator Program
@@ -196,8 +197,69 @@ A program that generates various patterns using nested for loops based on user i
                 1 2 3 
                 
 ---
+
+## 📊 Student Grade System Program
+**File:** 'StudentGradeSystem.java'
+
+A program that calculates student grades and performance metrics based on subject marks.
+
+### Features:
+-Takes student name and number of subjects as input
+-Collects marks for each subject
+-Generates three different calculations:
+-Total marks calculation
+-Average percentage calculation
+-Grade determination (A to F scale)
+-Displays visual progress bar and pass/fail status
+-Demonstrates multiple programming concepts in action
+
+### How to Run:
+Compile: javac StudentGradeSystem.java
+Run: java StudentGradeSystem
+
+### Concepts Learned:
+-FOR loops for multiple subject marks entry
+-**IF-ELSE** ladder for grade determination
+-**Outer logic** controls input collection
+-**Inner logic** controls calculation and display
+-**Pattern logic**: Relationship between marks and grade categories
+-**Scanner** for user input
+
+### Sample outuput :
+                === 🎓 Student Grade System 🎓 ===
+
+                Enter student name:
+                Alex Johnson
+                How many subjects?
+                3
+                Enter marks in subject 1: 
+                85
+                Enter marks in subject 2: 
+                92
+                Enter marks in subject 3: 
+                78
+
+                === 📊 Result for Alex Johnson ===
+                Total Marks: 255
+                Average: 85.0
+                Grade: B - Very Good!
+                Status: ✅ PASS
+
+                Progress Bar:
+                ████████░░ 85.0%
+
+---                
 ## 📁 Project Structure
 
+                Java-Learning-Repo/
+                │
+                ├── SimpleCalc.java          # Day 2: Basic calculator
+                ├── AgeChecker.java         # Day 3: Age categorization
+                ├── MultiTable.java         # Day 4: Multiplication table
+                ├── PasswordValidator.java  # Day 5: Password validation
+                ├── PatternPrinter.java     # Day 6: Pattern generation
+                ├── StudentGradeSystem.java # Day 7: Grade system ← NEW!
+                └── README.md
 
 
 ## 📅 Learning Progress
@@ -207,4 +269,5 @@ A program that generates various patterns using nested for loops based on user i
 - **Day 4**: Multiplication Table with loops
 - **Day 5**: Password Validator with attemps 
 - **Day 6**: Pattern printer 3 types 
-- **Day 7**: Comming soom .... !
+- **Day 7**: Student Grade System Program
+- **Day 8**: Comming soon ... 
