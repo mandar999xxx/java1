@@ -12,6 +12,7 @@ This repository contains my Java learning journey over 30 days.
 5. [Password Validator](#-password-validator-program)
 6 .[Pattern Printer ](#-pattern-printer-program)
 7 .[Student Grade ](#-student-grade-system-program)
+8 .[Array Basics](#-array-basics-program)
 ---
 
 ## 🧮 Simple Calculator Program
@@ -214,16 +215,16 @@ A program that calculates student grades and performance metrics based on subjec
 -Demonstrates multiple programming concepts in action
 
 ### How to Run:
-Compile: javac StudentGradeSystem.java
-Run: java StudentGradeSystem
+-Compile: javac StudentGradeSystem.java
+-Run: java StudentGradeSystem
 
 ### Concepts Learned:
--FOR loops for multiple subject marks entry
--**IF-ELSE** ladder for grade determination
--**Outer logic** controls input collection
--**Inner logic** controls calculation and display
--**Pattern logic**: Relationship between marks and grade categories
--**Scanner** for user input
+- **FOR loops**for multiple subject marks entry
+- **IF-ELSE** ladder for grade determination
+- **Outer logic** controls input collection
+- **Inner logic** controls calculation and display
+- **Pattern logic**: Relationship between marks and grade categories
+- **Scanner** for user input
 
 ### Sample outuput :
                 === 🎓 Student Grade System 🎓 ===
@@ -249,16 +250,63 @@ Run: java StudentGradeSystem
                 ████████░░ 85.0%
 
 ---                
+## 🔢 Array Basics Program
+
+**File:** 'ArrayBasics.java'
+
+A program that introduces fundamental array operations including input, display, and calculations.
+
+### Features:
+-Creates an integer array of size 5
+-Takes 5 numbers as input from user
+-Displays all entered numbers
+-Calculates sum of all numbers
+-Calculates average of the numbers
+-Demonstrates array traversal with loops
+
+### How to Run:
+-Compile: javac ArrayBasics.java
+-Run: java ArrayBasics
+
+### Concepts Learned:
+- **Array declaration and creation** (int[] numbers = new int[5])
+
+- **Array indexing** (accessing elements with numbers[i])
+- **FOR loops** with arrays for input and output
+- **Array length** property (numbers.length)
+- 0-based vs 1-based indexing (using i vs i+1)
+- Accumulator pattern with arrays (sum += numbers[i])
+- Type casting for accurate average calculation
+
+### Sample Output:
+                Enter 5 numbers:
+                Number 1: 10
+                Number 2: 20
+                Number 3: 30
+                Number 4: 40
+                Number 5: 50
+
+                You entered:
+                Number 1: 10
+                Number 2: 20
+                Number 3: 30
+                Number 4: 40
+                Number 5: 50
+
+                Sum: 150
+                Average: 30.0
 ## 📁 Project Structure
 
                 Java-Learning-Repo/
                 │
-                ├── SimpleCalc.java          # Day 2: Basic calculator
+                ├── SimpleCalc.java         # Day 2: Basic calculator
                 ├── AgeChecker.java         # Day 3: Age categorization
                 ├── MultiTable.java         # Day 4: Multiplication table
                 ├── PasswordValidator.java  # Day 5: Password validation
                 ├── PatternPrinter.java     # Day 6: Pattern generation
-                ├── StudentGradeSystem.java # Day 7: Grade system ← NEW!
+                ├── StudentGradeSystem.java # Day 7: Grade system 
+                ├── * test day of 7 days    # Day 8 : TEST DAY ---
+                ├── ArrayBasics.java        # Day 9 : Array workings  
                 └── README.md
 
 
@@ -270,4 +318,5 @@ Run: java StudentGradeSystem
 - **Day 5**: Password Validator with attemps 
 - **Day 6**: Pattern printer 3 types 
 - **Day 7**: Student Grade System Program
-- **Day 8**: Comming soon ... 
+- **Day 8**: Test done of the what are things learned in this 7 days 
+- **Day 9**: Array basics 
