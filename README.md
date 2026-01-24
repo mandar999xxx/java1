@@ -10,9 +10,9 @@ This repository contains my Java learning journey over 30 days.
 3. [Multiplication Table](#-multiplication-table-generator-java-program)
 4. [Project Structure](#-project-structure)
 5. [Password Validator](#-password-validator-program)
-6 .[Pattern Printer ](#-pattern-printer-program)
-7 .[Student Grade ](#-student-grade-system-program)
-8 .[Array Basics](#-array-basics-program)
+6. [Pattern Printer ](#-pattern-printer-program)
+7. [Student Grade ](#-student-grade-system-program)
+8. [Array Basics](#-array-basics-program)
 ---
 
 ## 🧮 Simple Calculator Program
