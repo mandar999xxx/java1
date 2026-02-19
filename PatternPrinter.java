@@ -27,7 +27,7 @@ public static void main(String[] args) {
  }
 
  // Pattern 3 : Number Triangle 
- System.out.println("\n === Pattern 3 : Number Trinangle ===");
+ System.out.println("\n === Pattern 3 : Number Trinangle in the pattern  ===");
  for (int i=1 ; i<=rows ; i++){
     for (int j =1; j<=i; j++){
         System.out.print(j +" ");
