@@ -1,7 +1,7 @@
 # Java Learning Repository
 ## 30 Days Java Learning Challenge
 
-This repository contains my Java learning journey over 30 days
+This repository contains my Java learning journey over 17 days
 
 
 ## 📚 Table of Contents
